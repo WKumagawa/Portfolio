@@ -1,0 +1,5 @@
+header banner
+nav bar floating
+background image
+links to my github portfolio projects
+simple js like hover over links animations
